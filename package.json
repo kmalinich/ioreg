@@ -17,14 +17,10 @@
 			"ecmaVersion": 6
 		}
 	},
-	"files": [
-		"src",
-		"README.md"
-	],
 	"homepage": "https://github.com/kmalinich/ioreg",
 	"keywords": [],
 	"license": "MIT",
-	"main": "./src/index.js",
+	"main": "index.js",
 	"name": "ioreg",
 	"repository": {
 		"type": "git",
