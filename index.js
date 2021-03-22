@@ -2,7 +2,7 @@ const exec  = require('execa');
 const plist = require('plist');
 
 
-const defaultOptions = [ '-n', '-r' ];
+const defaultOptions = [ '-r', '-n' ];
 
 
 const ioreg = (className = 'Root', options = defaultOptions) => {
